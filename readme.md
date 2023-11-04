@@ -47,13 +47,15 @@ Automatizar o processo de criação de flashcards para estudo com base em anota�
 - Typescript
 
 ### Front-end
-- Framer motion
+- Tailwind
+- Formik
 - yup
+- Framer motion
+- Axios
 
 ### Back-end
-- Chat GPT API
-- Express
-- TypeORM
+- Langchain
+- Prisma
 - NodeJS
 - SQLite
 - Express Async Errors
